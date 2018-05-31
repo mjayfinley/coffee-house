@@ -1,0 +1,100 @@
+body {
+  background-color: #663300;
+}
+
+#heading {
+  font-family: monospace;
+  font-size: 32px;
+  color: white;
+  padding: 30px;
+}
+
+#allOrderHeading {
+  font-family: monospace;
+  font-size: 24px;
+  color: white;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+#getAllOrders {
+  font-family: monospace;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+#searchAndDelete {
+  display: block;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+#searchEmailTextBox {
+  display: block;
+  font-family: monospace;
+  font-size: 20px;
+
+}
+
+#searchEmailBtn {
+  font-family: monospace;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+#deleteOrder {
+  font-family: monospace;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+#newOrderFormContainer {
+  display: block;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  padding-bottom: 20px;
+  padding-left: 30px;
+}
+
+#newOrderEmail{
+  display: block;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+#newOrderCoffee{
+  font-family: monospace;
+  font-size: 20px;
+}
+
+#submitOrder {
+  font-family: monospace;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+#orderList {
+  list-style: none;
+  font-family: monospace;
+  font-size: 20px
+  color: white;
+}
+
+.listItems{
+  color: brown;
+  border: 2px solid black;
+  background-color: white;
+
+}
+
+#searchAndDeleteDescription {
+  
+}
